@@ -10,8 +10,8 @@
 - [Auth documentation 1](https://github.com/wurstmeister/kafka-docker/issues/532)
 - [Script to create the JKS and PEM files](https://github.com/jaehyeon-kim/kafka-pocs/blob/main/kafka-dev-with-docker/part-10/generate.sh)
 - [Article about Kafka Auth](https://jaehyeon.me/blog/2023-07-13-kafka-development-with-docker-part-10/) and also [this article series](https://jaehyeon.me/series/kafka-development-with-docker/) 
-
-
+- [Generate JKS for kafka](https://docs.cloudera.com/runtime/7.2.0/kafka-securing/topics/kafka-secure-create-ca.html) 
+- [Plain auth kafka configuration](https://codeforgeek.com/how-to-set-up-authentication-in-kafka-cluster/)
 
 # Deploy
 
